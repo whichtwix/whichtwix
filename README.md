@@ -12,10 +12,11 @@ Among Us Modding:
 - [SabotageLimiter](https://github.com/whichtwix/SabotageLimiter)
 - [My town of us fork](https://github.com/whichtwix/Town-Of-Us-R)
 - [My AmongUs.MulticlientInstancing fork](https://github.com/whichtwix/AmongUs.MultiClientInstancing)
+- I have also done commission work for [MoreSidemen](https://www.youtube.com/@MoreSidemen), including the special gravity sabotage on a custom map they played [here](https://www.youtube.com/watch?v=ialgRAC-cns)
 
 Among Us Modding support:
 - [Data](https://github.com/whichtwix/Data) - holds manifests for older versions of Among Us for epic games
-- [EpicDowngrader](https://github.com/whichtwix/EpicGamesDowngrader) - makes downgrading possible for epic games
+- [EpicDowngrader](https://github.com/whichtwix/EpicGamesDowngrader) - makes downgrading easier for epic games players
 - [EpicGamesStarter](https://github.com/whichtwix/EpicGamesStarter) or [My legendary fork](https://github.com/whichtwix/legendary) - makes opening the game from a copy of the game possible for epic players
 - [Modinstaller](https://github.com/whichtwix/Modinstaller) - An easy way to install mods 
 
