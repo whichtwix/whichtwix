@@ -9,6 +9,8 @@ Misc:
 
 Among Us Modding:
 - [GameLogger](https://github.com/whichtwix/GameLogger)
+- [OutfitChanger](https://github.com/whichtwix/OutfitChanger)
+- [GameNotifier](https://github.com/whichtwix/GameNotifier)
 - [SabotageLimiter](https://github.com/whichtwix/SabotageLimiter)
 - [My town of us fork](https://github.com/whichtwix/Town-Of-Us-R)
 - [My AmongUs.MulticlientInstancing fork](https://github.com/whichtwix/AmongUs.MultiClientInstancing)
