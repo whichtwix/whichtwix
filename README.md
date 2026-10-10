@@ -23,4 +23,4 @@ Among Us Modding support:
 - [Modinstaller](https://github.com/whichtwix/Modinstaller) - An easy way to install mods 
 
 
-![My GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=whichtwix&show_icons=true&theme=dark)
+![My GitHub stats](https://github-stats-extended.vercel.app/api?username=whichtwix&show_icons=true&theme=dark)
